@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/blah
+blah.so
+blah.dylib
+blah.dll
+blah.a
+blah.lib
+blah-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
