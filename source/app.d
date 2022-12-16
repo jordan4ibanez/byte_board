@@ -5,11 +5,9 @@ import std.algorithm.comparison: equal;
 
 void main() {
 
-    bool quit = false;
-
     string accumulator = "";
 
-    outer: while (!quit) {
+    outer: while (true) {
 
         write("Input your bits: ");
 
